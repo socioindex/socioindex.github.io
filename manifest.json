@@ -1,6 +1,6 @@
 {
-    "name": "socioindex",
-    "short_name": "socioindex",
+    "name": "information_dam",
+    "short_name": "information_dam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
